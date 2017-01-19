@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Properties</comment>
+<entry key="java.runtime.name">Java(TM) SE Runtime Environment</entry>
+<entry key="sun.boot.library.path">/Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/jre/lib</entry>
+<entry key="java.vm.version">25.101-b13</entry>
+<entry key="user.country.format">IN</entry>
+<entry key="gopherProxySet">false</entry>
+<entry key="java.vm.vendor">Oracle Corporation</entry>
+<entry key="java.vendor.url">http://java.oracle.com/</entry>
+<entry key="path.separator">:</entry>
+<entry key="java.vm.name">Java HotSpot(TM) 64-Bit Server VM</entry>
+<entry key="file.encoding.pkg">sun.io</entry>
+<entry key="user.country">US</entry>
+<entry key="sun.java.launcher">SUN_STANDARD</entry>
+<entry key="sun.os.patch.level">unknown</entry>
+<entry key="java.vm.specification.name">Java Virtual Machine Specification</entry>
+<entry key="user.dir">/Users/adityag/Automation Projects/JavaPractice</entry>
+<entry key="java.runtime.version">1.8.0_101-b13</entry>
+<entry key="java.awt.graphicsenv">sun.awt.CGraphicsEnvironment</entry>
+<entry key="java.endorsed.dirs">/Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/jre/lib/endorsed</entry>
+<entry key="os.arch">x86_64</entry>
+<entry key="java.io.tmpdir">/var/folders/9k/qyt5pp6x5g96_lr5_v55sbl40000gp/T/</entry>
+<entry key="line.separator">
+</entry>
+<entry key="java.vm.specification.vendor">Oracle Corporation</entry>
+<entry key="os.name">Mac OS X</entry>
+<entry key="sun.jnu.encoding">UTF-8</entry>
+<entry key="java.library.path">/Users/adityag/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.</entry>
+<entry key="java.specification.name">Java Platform API Specification</entry>
+<entry key="java.class.version">52.0</entry>
+<entry key="sun.management.compiler">HotSpot 64-Bit Tiered Compilers</entry>
+<entry key="os.version">10.9.5</entry>
+<entry key="user.home">/Users/adityag</entry>
+<entry key="user.timezone"/>
+<entry key="java.awt.printerjob">sun.lwawt.macosx.CPrinterJob</entry>
+<entry key="file.encoding">UTF-8</entry>
+<entry key="java.specification.version">1.8</entry>
+<entry key="java.class.path">/Users/adityag/Automation Projects/JavaPractice/bin</entry>
+<entry key="user.name">adityag</entry>
+<entry key="java.vm.specification.version">1.8</entry>
+<entry key="sun.java.command">com.javapractice.basiccode.JavaOpertions</entry>
+<entry key="java.home">/Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/jre</entry>
+<entry key="sun.arch.data.model">64</entry>
+<entry key="user.language">en</entry>
+<entry key="java.specification.vendor">Oracle Corporation</entry>
+<entry key="awt.toolkit">sun.lwawt.macosx.LWCToolkit</entry>
+<entry key="java.vm.info">mixed mode</entry>
+<entry key="java.version">1.8.0_101</entry>
+<entry key="java.ext.dirs">/Users/adityag/Library/Java/Extensions:/Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/jre/lib/ext:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java</entry>
+<entry key="sun.boot.class.path">/Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/jre/classes</entry>
+<entry key="java.vendor">Oracle Corporation</entry>
+<entry key="file.separator">/</entry>
+<entry key="java.vendor.url.bug">http://bugreport.sun.com/bugreport/</entry>
+<entry key="sun.io.unicode.encoding">UnicodeBig</entry>
+<entry key="sun.cpu.endian">little</entry>
+<entry key="sun.cpu.isalist"/>
+</properties>
